@@ -15,3 +15,4 @@ public class FizzBuzz{
         }
     }
 }
+//leetcode solutions 
