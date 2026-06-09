@@ -25,3 +25,4 @@ public class maximum69 {
         System.out.println(num + 3 * changeplace);
     }
 }
+//leetcode solutions

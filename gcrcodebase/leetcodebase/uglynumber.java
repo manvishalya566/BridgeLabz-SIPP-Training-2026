@@ -22,3 +22,4 @@ public class uglynumber {
         return num == 1; 
     }
 }
+//leetcode solutions
