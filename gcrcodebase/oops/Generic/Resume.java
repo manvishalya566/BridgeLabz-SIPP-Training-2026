@@ -1,0 +1,1 @@
+import java.util.*; public class Resume<T extends JobRole>{ List<T> list=new ArrayList<>(); public void add(T r){list.add(r);} public List<T> get(){return list;} public void display(List<? extends JobRole> r){for(JobRole x:r) System.out.println(x);} }

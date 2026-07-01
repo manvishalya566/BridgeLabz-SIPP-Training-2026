@@ -1,0 +1,1 @@
+public class WarehouseDemo{ public static void main(String[] args){ Storage<Electronics> s=new Storage<>(); s.add(new Electronics("Laptop")); s.add(new Electronics("Phone")); s.displayAll(s.getItems()); }}

@@ -1,0 +1,1 @@
+public class MarketplaceUtil{ public static <T extends Product<?>> void applyDiscount(T p,double percent){ p.price=p.price-(p.price*percent/100); } }

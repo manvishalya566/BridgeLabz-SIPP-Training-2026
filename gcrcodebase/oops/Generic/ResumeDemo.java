@@ -1,0 +1,1 @@
+public class ResumeDemo{ public static void main(String[] args){ Resume<SoftwareEngineer> r=new Resume<>(); r.add(new SoftwareEngineer("Manish")); r.add(new SoftwareEngineer("Aman")); r.display(r.get()); }}

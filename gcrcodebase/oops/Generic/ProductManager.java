@@ -1,0 +1,1 @@
+public class ProductManager extends JobRole{ public ProductManager(String n){super(n);} }

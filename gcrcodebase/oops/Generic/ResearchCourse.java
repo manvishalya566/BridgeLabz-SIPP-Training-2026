@@ -1,0 +1,1 @@
+public class ResearchCourse extends CourseType{ public ResearchCourse(String n){super(n);} }

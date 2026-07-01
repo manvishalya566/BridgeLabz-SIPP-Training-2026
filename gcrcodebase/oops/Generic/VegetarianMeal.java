@@ -1,0 +1,1 @@
+public class VegetarianMeal implements MealPlan{ public String type(){return "Veg";} }

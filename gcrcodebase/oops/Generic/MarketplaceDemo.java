@@ -1,0 +1,1 @@
+public class MarketplaceDemo{ public static void main(String[] args){ Product<String> p=new Product<>("Book",500,"Edu"); System.out.println(p); MarketplaceUtil.applyDiscount(p,10); System.out.println(p); }}
