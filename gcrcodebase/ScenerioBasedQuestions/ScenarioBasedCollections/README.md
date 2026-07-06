@@ -1,1 +1,0 @@
-Scenario based collection solutions.

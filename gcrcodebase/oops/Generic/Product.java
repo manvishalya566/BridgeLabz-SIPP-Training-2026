@@ -1,1 +1,0 @@
-public class Product<T>{ String name; double price; T category; public Product(String n,double p,T c){name=n;price=p;category=c;} public String toString(){return name+" "+price+" "+category;} }

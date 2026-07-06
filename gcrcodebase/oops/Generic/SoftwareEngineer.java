@@ -1,1 +1,0 @@
-public class SoftwareEngineer extends JobRole{ public SoftwareEngineer(String n){super(n);} }

@@ -1,1 +1,0 @@
-public class Meal<T extends MealPlan>{ public T generate(T m){return m;} public <T extends MealPlan> boolean validate(T m){return m!=null;} }
