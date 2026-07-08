@@ -1,1 +1,0 @@
-public class Astronaut{int astronautId;String name,specialization;Astronaut(int i,String n,String s){astronautId=i;name=n;specialization=s;} public String toString(){return astronautId+" "+name+" "+specialization;}}

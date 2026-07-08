@@ -1,1 +1,0 @@
-public class CourseDemo{ public static void main(String[] args){ Course<ExamCourse> c=new Course<>(); c.add(new ExamCourse("Math")); c.add(new ExamCourse("Physics")); c.display(c.get()); }}

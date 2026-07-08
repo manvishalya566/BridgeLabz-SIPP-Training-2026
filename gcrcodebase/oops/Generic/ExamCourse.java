@@ -1,1 +1,0 @@
-public class ExamCourse extends CourseType{ public ExamCourse(String n){super(n);} }

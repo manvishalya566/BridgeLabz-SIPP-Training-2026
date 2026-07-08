@@ -1,1 +1,0 @@
-public class MealDemo{ public static void main(String[] args){ Meal<VegetarianMeal> m=new Meal<>(); VegetarianMeal v=new VegetarianMeal(); System.out.println(m.validate(v)); System.out.println(m.generate(v).type()); }}

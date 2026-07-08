@@ -1,1 +1,0 @@
-public abstract class CourseType{ String name; public CourseType(String n){name=n;} public String toString(){return name;} }

@@ -1,1 +1,0 @@
-public abstract class JobRole{ String name; public JobRole(String n){name=n;} public String toString(){return name;} }

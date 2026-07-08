@@ -1,1 +1,0 @@
-import java.util.*; public class Course<T extends CourseType>{ List<T> list=new ArrayList<>(); public void add(T c){list.add(c);} public List<T> get(){return list;} public void display(List<? extends CourseType> c){for(CourseType x:c) System.out.println(x);} }

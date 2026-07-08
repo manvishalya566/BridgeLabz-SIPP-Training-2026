@@ -1,1 +1,0 @@
-public class DataScientist extends JobRole{ public DataScientist(String n){super(n);} }

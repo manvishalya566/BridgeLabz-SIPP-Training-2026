@@ -1,1 +1,0 @@
-public class VeganMeal implements MealPlan{ public String type(){return "Vegan";} }
