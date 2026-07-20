@@ -1,0 +1,1 @@
+package heap; public class Patient{String name; int severity; Patient(String n,int s){name=n;severity=s;}}

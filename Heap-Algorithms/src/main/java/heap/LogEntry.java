@@ -1,0 +1,1 @@
+package heap; public class LogEntry{int timestamp; String message; LogEntry(int t,String m){timestamp=t;message=m;}}
