@@ -1,0 +1,1 @@
+-- 23_UpdateCovidStats_Procedure.sql
