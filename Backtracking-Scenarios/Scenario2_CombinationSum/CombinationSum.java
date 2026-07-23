@@ -1,0 +1,2 @@
+// Scenario 2
+import java.util.*; public class CombinationSum{static void bt(int[]c,int t,int s,List<Integer>p,List<List<Integer>>r){if(t==0){r.add(new ArrayList<>(p));return;}for(int i=s;i<c.length&&c[i]<=t;i++){p.add(c[i]);bt(c,t-c[i],i,p,r);p.remove(p.size()-1);}}public static void main(String[]a){int[]c={2,3,6,7};Arrays.sort(c);List<List<Integer>>r=new ArrayList<>();bt(c,7,0,new ArrayList<>(),r);System.out.println(r);}}
