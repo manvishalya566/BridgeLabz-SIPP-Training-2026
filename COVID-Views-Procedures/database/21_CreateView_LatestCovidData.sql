@@ -1,0 +1,1 @@
+-- 21_CreateView_LatestCovidData.sql

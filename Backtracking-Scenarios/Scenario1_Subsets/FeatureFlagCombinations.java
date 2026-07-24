@@ -1,0 +1,3 @@
+// Scenario 1
+import java.util.*;
+public class FeatureFlagCombinations{static void bt(String[]f,int i,List<String>c,List<List<String>>r){if(i==f.length){r.add(new ArrayList<>(c));return;}c.add(f[i]);bt(f,i+1,c,r);c.remove(c.size()-1);bt(f,i+1,c,r);}public static void main(String[]a){String[]f={"dark","checkout","beta"};List<List<String>>r=new ArrayList<>();bt(f,0,new ArrayList<>(),r);System.out.println(r);}}

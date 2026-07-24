@@ -1,0 +1,1 @@
+EXPLAIN SELECT c.country,c.confirmed,v.doses FROM covid_cases c JOIN vaccine_distribution v ON c.country=v.country AND c.date=v.date WHERE c.country='India';

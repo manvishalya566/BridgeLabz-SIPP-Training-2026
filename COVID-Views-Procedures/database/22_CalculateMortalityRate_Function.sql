@@ -1,0 +1,1 @@
+-- 22_CalculateMortalityRate_Function.sql

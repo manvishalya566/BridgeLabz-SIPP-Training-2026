@@ -1,0 +1,1 @@
+-- 24_CalculateRecoveryRate_Function.sql
